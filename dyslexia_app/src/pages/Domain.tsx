@@ -1,4 +1,4 @@
-import React from "react";
+
 import FadeInOnScroll from "../components/FadeInOnScroll";
 
 const Domain = () => {

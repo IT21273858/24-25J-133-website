@@ -1,5 +1,3 @@
-import React from "react";
-
 const team = [
     { name: "Shangeeth V", role: "Team Leader", email: "IT21273858@sliit.lk", src: "/profile/shangeeth.jpg" },
     { name: "Sanjeeva N", role: "Member", email: "IT21334542@slit.lk", src: "/profile/jeevan.jpg" },

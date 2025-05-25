@@ -1,4 +1,4 @@
-import React from "react";
+
 import { RiSlideshow2Line } from "react-icons/ri";
 
 const presentations = [
