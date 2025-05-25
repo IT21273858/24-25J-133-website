@@ -15,7 +15,7 @@ const Presentations = () => {
             <div className="flex bg-amber-100 rounded-md p- shadow-2xl hover:shadow-amber-900">
             <div className="flex flex-col gap-6 p-2">
                 {presentations.map((p, i) => (
-                    <a href={p.link} className="flex text-gray-400! hover:underline! text-3xl items-center ">
+                    <a key={i} href={p.link} className="flex text-gray-400! hover:underline! text-3xl items-center ">
                         <div key={i} className="flex flex-row gap-3 items-center hover:text-black!">
                             {p.name}
                             <RiSlideshow2Line size={25} />
