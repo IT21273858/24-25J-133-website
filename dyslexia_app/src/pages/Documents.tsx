@@ -7,6 +7,7 @@ const documents = [
     { name: "Checklist Documents", link: "/RETAF_24-25J-133.pdf" },
     { name: "Individual report - Shangeeth", link: "/IT21273858_Final_report.pdf" },
     { name: "Individual report - Sanjeeva", link: "/IT21334542_Final_report.pdf" },
+    { name: "Individual report - Asmitha", link: "/IT21176210_Final_report.pdf" },
     { name: "Final Document", link: "/Mobile and Simulation-based Approach to Reduce Dyslexia in Children_untouched_new.pdf" },
 ];
 
